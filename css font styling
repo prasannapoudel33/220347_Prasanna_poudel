@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS Flex property</title>
+</head>
+<body>
+    <style>
+        h1 {
+          font-family: Arial, sans-serif;  
+          font-size: 50px;
+          font-weight: 100;
+          font-style: italic;
+        }
+        p {
+            font-family: :Arial, Helvetica, sans-serif;
+            font-size: 16px;
+            font-style: italic;
+        }
+       
+        
+    </style>
+    <h1>Heading should be of specific font</h1>
+    <p>Also this should be of different font</p>
+    
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html> -->
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+      
+        body{
+            padding-left:11.5% ;padding-right: 10%; padding-top: 2%;
+        }
+
+         h1{
+            color: red;
+            padding-left:40.5% ;padding-right: 10%; padding-top: 2%;
+        } 
+        h2{ padding-left:45.5% ;padding-right: 10%; padding-top: 2%;
+
+        }
+    </style>
+      </style>
+</head>
+<body style="background-color: aqua;">
+     <div class="center">
+    <h1>Welcome To My Website</h1>
+    <h2 class="rangin">Bio Data</h2>
+    <style>
+        .rangin{
+            color: rgb(200, 34, 16);
+        }
+    </style>
+    <style>
+        body{
+        padding: 5px;        }
+    </style>
+    <table border="1" align="center">
+    <tr>
+        <th>Name</th>
+        <td>Kritika Poudel</td>
+
+
+    </tr>
+    <tr>
+        <th>Address</th>
+        <td>Jhamsikhel, Lalitpur</td>
+       
+    </tr>
+    <tr>
+        <th>D.O.B</th>
+        <td>2066/5/10</td>
+
+    </tr>
+    <tr>
+        <th>Gender</th>
+        <td>Female</td>
+
+    </tr>
+    <tr>
+        <th>Hobby</th>
+        <td>Listening to Music</td>
+    </tr>
+    </table>
+    
+    <p></p>
+   
+  </div>
+    
+</body>
+</html>
