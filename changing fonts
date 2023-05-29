@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Changing Font and Font Size Example</title>
+  <style>
+    .special-font {
+      font-family: "Arial", sans-serif;
+    }
+
+    .special-font {
+  font-family: "Arial", sans-serif;
+}
+.engaging-text {
+  font-size: 18px;
+  line-height: 1.5;
+}
+.emphasis {
+  font-weight: bold;
+}
+.italic-text {
+  font-style: italic;
+}
+.center-text {
+  text-align: center;
+}
+
+
+    .engaging-text {
+      font-size: 18px;
+      line-height: 1.5;
+    }
+  </style>
+</head>
+<body>
+  <p>This is a regular paragraph of text.</p>
+  <p class="special-font">This paragraph has a different font.</p>
+  <p>This is another paragraph of text.</p>
+
+  <p>This is a regular paragraph of text.</p>
+  <p class="engaging-text">This paragraph uses a larger font size.</p>
+</body>
+</html>
