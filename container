@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+        function myFunction(){
+         console.log('Button CLicked');
+         document.getElementById('para1').innerHTML='Paragraph Changed';
+        document.write('hello nepal')
+        indow.alert('hello world');
+        console.log('hello javascript')
+ 
+        }
+     </script>
+     <style>
+        button{
+            width: 200px;
+            height: 150px;
+            background-color: brown;
+            color: cyan;
+            cursor: pointer;
+            transition: 1s;
+
+        }
+       
+     </style>
+</head>
+<body>
+    <h1>hello world!</h1>
+   <button type="button" onclick="myFunction()">click here</button>
+   
+</body>
+</html>
