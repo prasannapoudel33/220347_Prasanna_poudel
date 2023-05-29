@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+  <style>
+    p {
+  color: blue;
+}
+#Second {
+  color: red;
+}
+.Third {
+  color: brown;
+}
+  </style>
+<head>
+  <meta charset="UTF-8">
+  <title>My Page</title>
+  <link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+  <p>this is first paragraph</p>
+  <p id="Second">this is second paragraph</p>
+  <p class="Third">this is third paragraph</p>
+</body>
+</html>
+<a href="https://www.instagram.com">instagram</a>
+<a href="https://chat.openai.com/">chatgpt</a>
+<a href="https://github.com/">github</a>
+<style>
+p::first-letter{
+  text-transform: uppercase;
+}
+p::first-line{
+  text-transform: 16px;
+}
+h1::before{
+  content: url("image.png");
+}
+}
+</style>
+<head>
+<meta charset="UTF-8">
+<title>My Page</title>
+<link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+<p>this is first paragraph</p>
+<p id="Second">this is second paragraph</p>
+<p class="Third">this is third paragraph</p>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  
+</body>
+</html>
