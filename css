@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Text Styling Examples</title>
+  <style>
+    .special-font {
+      font-family: "Arial", sans-serif;
+    }
+
+    .engaging-text {
+      font-size: 18px;
+      line-height: 1.5;
+    }
+
+    .emphasis {
+      font-weight: bold;
+    }
+
+    .italic-text {
+      font-style: italic;
+    }
+
+    .center-text {
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <p>This is a paragraph of text.</p>
+  <p class="special-font">This paragraph has a different font.</p>
+  <p>This is another paragraph of text.</p>
+
+  <p>This is a regular paragraph of text.</p>
+  <p class="engaging-text">This paragraph uses a larger font size.</p>
+
+  <p>This is a sentence with <span class="emphasis">emphasized</span> text.</p>
+
+  <p class="italic-text">This text is styled in italics using CSS.</p>
+
+  <p class="center-text">This paragraph is centered on the page.</p>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Visual Styling Examples</title>
+  <style>
+    .heading {
+      color: red;
+    }
+
+    .container {
+      background-color: #F4F4F4;
+    }
+
+    .transparent-box {
+      background-color: rgba(0, 0, 0, 0.5);
+    }
+
+    .button {
+      background-color: blue;
+      color: white;
+    }
+
+    .button:hover {
+      background-color: red;
+    }
+    .gradient {
+  background: radial-gradient(ellipse at center, #ff0000, #0000ff);
+}
+.gradient {
+  background: linear-gradient(to bottom, #ff0000, #0000ff);
+}
+
+  </style>
+</head>
+<body>
+  <h1 class="heading">This is a heading with red text color.</h1>
+
+  <div class="container">
+    <p>This is a paragraph with a light gray background color.</p>
+  </div>
+
+  <div class="transparent-box">
+    <p>This is a box with a semi-transparent black background.</p>
+  </div>
+
+  <button class="button">Hover over me</button>
+</body>
+</html>
+
+
+
+.gradient {
+    background: radial-gradient(ellipse at center, #ff0000, #0000ff);
+  }
+  
